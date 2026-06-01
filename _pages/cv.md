@@ -21,6 +21,8 @@ M.S. in Information Science and Technology
 B.E. in Computer Science and Technology
 2016 – 2020
 
+## Fellowships and Grants
+
 **JST BOOST Fellowship**  
 *Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas*  
 Next-Generation AI Human Resource Development Program, Kyushu University  
