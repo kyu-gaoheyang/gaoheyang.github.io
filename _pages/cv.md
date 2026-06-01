@@ -21,6 +21,13 @@ M.S. in Information Science and Technology
 B.E. in Computer Science and Technology
 2016 – 2020
 
+**JST BOOST Fellowship**  
+*Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas*  
+Next-Generation AI Human Resource Development Program, Kyushu University  
+Apr. 2024 – Mar. 2027
+
+Recipient of the JST BOOST fellowship under the national program for fostering young researchers and doctoral students in strategic fields.
+
 ## Research Interests
 
 * Underwater 3D Reconstruction
