@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Vision Group at Kyushu University, advised by Prof. Hiroshi Kawasaki. My research focuses on underwater 3D reconstruction, structured light sensing, and visual SLAM for robotic perception in challenging aquatic environments.
+I am a Ph.D. student in the Computer Vision Group at Kyushu University, advised by Prof. Hiroshi Kawasaki. My research focuses on underwater 3D reconstruction, structured light sensing, and visual SLAM for robotic perception in challenging aquatic environments. I am a recipient of the JST BOOST Fellowship, Next-Generation AI Human Resource Development Program, from April 2024 to March 2027.
 
 My current research explores laser-visual reconstruction systems for underwater robots, with an emphasis on multi-line structured light, refractive imaging geometry, laser stripe detection, and multi-view geometric consistency.
 
