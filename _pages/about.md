@@ -39,11 +39,6 @@ My doctoral research is supported by the JST BOOST Fellowship, Next-Generation A
 *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2026
 **Oral Presentation. Award Finalist.**
 
-**Title to be updated**
-**Heyang Gao**, et al.
-*IEEE International Conference on Image Processing (ICIP)*, 2026
-**Accepted. To appear.**
-
 For a full list of publications, please see my [Publications](/gaoheyang.github.io/publications/) page.
 
 ## Links
