@@ -39,3 +39,9 @@ author_profile: true
 1. **Heyang Gao**, et al.
    "Title to be updated."
    Under review.
+
+## Society Activity
+
+1. Reviewer, ICRA 2026.
+2. Reviewer, ICIP 2026.
+3. Reviewer, IROS 2026.
