@@ -26,6 +26,7 @@ My doctoral research is supported by the JST BOOST Fellowship, Next-Generation A
 
 ## News
 
+* **2026:** One paper was accepted by the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026).
 * **2026:** Our article on underwater active 3D imaging using laser light sectioning and deep learning was published in *The Review of Laser Engineering*.
 * **2026:** One paper was accepted by the IEEE International Conference on Image Processing (ICIP 2026).
 * **2026:** Our paper on underwater SLAM with laser-light sectioning was accepted by WACV 2026 as an oral presentation and selected as an award finalist.
