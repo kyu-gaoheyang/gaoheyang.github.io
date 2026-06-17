@@ -7,12 +7,12 @@ author_profile: true
 
 ## Conference Papers
 
-1. **Heyang Gao**, et al.
+1. **Heyang Gao**, , Kazuto Ichimaru, Takafumi Iwaguchi, Yoshihiro Sato, Hiroshi Kawasaki.
    " Underwater 3D Reconstruction using Multiple Cross-Line Lasers with Self-Calibration and Pose Optimization."
    *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
    **Accepted. To appear.**
 
-2. **Heyang Gao**, et al.
+2. **Heyang Gao**, Yuki Nishida, Takafumi Iwaguchi, Hiroshi Kawasaki.
    "SSM-UNet: Structure-Aware Cross-Line Laser Detection for Robust Underwater 3D Reconstruction."
    *IEEE International Conference on Image Processing (ICIP)*, 2026.
    **Accepted. To appear.**
