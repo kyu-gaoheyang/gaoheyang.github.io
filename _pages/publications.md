@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Papers
 
-1. **Heyang Gao**, , Kazuto Ichimaru, Takafumi Iwaguchi, Yoshihiro Sato, Hiroshi Kawasaki.
+1. **Heyang Gao**, Kazuto Ichimaru, Takafumi Iwaguchi, Yoshihiro Sato, Hiroshi Kawasaki.
    " Underwater 3D Reconstruction using Multiple Cross-Line Lasers with Self-Calibration and Pose Optimization."
    *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
    **Accepted. To appear.**
